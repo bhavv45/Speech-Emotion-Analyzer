@@ -30,6 +30,10 @@ The model is trained on the **RAVDESS** (Ryerson Audio-Visual Database of Emotio
 * **Data Manipulation:** Numpy
 
 ---
+# 🎥 Project Demo
+This video demonstrates the working of the Speech Emotion Recognition system.
+🔗 Click below to watch:
+https://drive.google.com/drive/folders/1gwGvAg3RSS0--XQAb4bDfv0pTXgsr06R?usp=sharing
 
 ## 📂 Project Structure
 ```text
